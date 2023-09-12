@@ -1,0 +1,12 @@
+{
+    "staffs": [
+        {
+            "id": 0,
+            "name": "Nguyen Minh",
+            "email": "admin@gmail.com",
+            "password": "123456minh",
+            "avatar": "https://minhdevs.github.io/introduce/dev.png",
+            "isAdmin": true
+        }
+    ]
+}
